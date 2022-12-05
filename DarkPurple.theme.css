@@ -5,10 +5,9 @@
     * @description A dark purple theme that is basic and isn't css heavy. Enjoy.
     * @author ElitePrime#7266
 **/
-@import url(https://raw.githubusercontent.com/haxerman123/Discord-Improvements/main/darkaddserver.css); /* (fork) */
 @import url("https://nyri4.github.io/Discolored/main.css");
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/Touchup.css");
-@import url(https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css);  /* (original) */
+@import url(https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css);  
 
 :root {
     /* --------- BASE THEME --------- */
